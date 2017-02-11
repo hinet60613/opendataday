@@ -56,39 +56,39 @@ who_description_2:
 
 Your input and context can help us to make government data better. Come converse and learn.
 ---
-who_title_3: Designers
+who_title_3: 設計師
 ---
 who_description_3:
 
 Help us make open data relatable, so more people will use it and understand it.
 ---
-who_title_4: Developers
+who_title_4: 開發者
 ---
 who_description_4:
 
-Use your skills to develop solutions that can help solve important societal issues.
+利用你的技能，針對各種社會議題開發解決方案
 ---
-who_title_5: Statisticians
+who_title_5: 統計學家
 ---
 who_description_5:
 
-Use your skills to help understand the data and get important insights from it.
+利用你的專業知識協助大家深入觀察並了解資料
 ---
-resources_heading: Event Resources
+resources_heading: 活動資源
 ---
 resources_intro:
 
-Need some inspiration for an Open Data Day event, or don't know where to find the data you need? Checkout our 2017 event resources.
+需要一點Open Data Day活動的靈感? 或是不知道要去哪裡找你需要的資料? 看看2017活動資源吧!
 ---
-resources_button: Resources
+resources_button: 資源
 ---
 resources_materials_heading: Materials
 ---
 resources_materials_text:
 
-Create a logo for your event with [this logo generator](http://odd.structure-and-representation.com/)!
+使用[Logo產生器](http://odd.structure-and-representation.com/)為你的活動設計一個Logo!
 ---
-resources_ideas_heading: Ideas and data sources
+resources_ideas_heading: 好點子及資料資源
 ---
 resources_ideas_intro:
 
@@ -100,7 +100,7 @@ resources_ideas_theme_1_text:
 
 Use [data.world](https://data.world) to upload or find data from many sources and organize all aspects of a project - including data, notebooks, analysis, and discussions - in a single workspace. Collaborate efficiently using many tools: query uploaded data with SQL, interact with data via R Studio or Python programs using the data.world API, link a Google Sheet to a dataset, or work locally in a spreadsheet and upload a file. After Open Data Day, this work is preserved to showcase what was achieved and permit the community to build upon progress without unnecessarily repeating the data prep and analysis completed on Open Data Day.
 ---
-resources_ideas_theme_2: Open Research Data
+resources_ideas_theme_2: 開放研究資料
 ---
 resources_ideas_theme_2_text:
 
@@ -111,13 +111,13 @@ Try text & data mining: Content Mine
 Find a reusable dataset in your field: Zenodo
 [tbc: help others make their dataset available]
 ---
-resources_ideas_theme_3: Tracking Public Money flows
+resources_ideas_theme_3: 追蹤公共金流相關議題
 ---
 resources_ideas_theme_3_text:
 
 Open Contracting, Open Spending, Cooking budgets, Panama Papers, Municipal Money, Development check
 ---
-resources_ideas_theme_4: Environment theme
+resources_ideas_theme_4: 環境相關議題
 ---
 resources_ideas_theme_4_text:
 
@@ -151,7 +151,7 @@ Extract-A-Fact, a project by Publish What You Pay, is a toolset to find facts in
 Earth Observatory data
 Global Forest Watch’s fire data/map
 ---
-resources_ideas_theme_5: Human Rights theme
+resources_ideas_theme_5: 人權相關議題
 ---
 resources_ideas_theme_5_text:
 
